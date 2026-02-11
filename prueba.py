@@ -1,2 +1,1 @@
-Holaa
-esto es una prueba
+print('hola Mundo')
